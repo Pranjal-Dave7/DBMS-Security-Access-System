@@ -16,6 +16,7 @@
 To log into the system interface:
 
 | Role | Username | Password |
+| :--- | :--- | :--- |
 | **Admin** |admin|admin123|
 | **Security Officer** |security01|sec@2024|
 
