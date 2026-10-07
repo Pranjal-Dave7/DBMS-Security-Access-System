@@ -20,6 +20,4 @@ To log into the system interface:
 | **Admin** |admin|admin123|
 | **Security Officer** |security01|sec@2024|
 
-=>**How to Run**
-1. Download the 'SecureAccess.exe' and 'security_access.db' files.
-2. Double-click 'SecureAccess.exe' to start the application.
+
